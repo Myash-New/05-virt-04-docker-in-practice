@@ -1,0 +1,5 @@
+git clone https://github.com/Myash-New/shvirtd-example-python /opt/python_app_project
+
+cd /opt/python_app_project
+
+sudo docker compose up -d
