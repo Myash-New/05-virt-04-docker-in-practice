@@ -34,4 +34,4 @@ https://github.com/Myash-New/shvirtd-example-python  - FORK
 
 Ответ задача 6.1
 
-![Task6.1]([https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task6.0-2.jpg])
+![Task6.1](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task6.1.jpg)
