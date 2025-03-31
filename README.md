@@ -11,10 +11,14 @@
 Ответ задача 2
 
 ![Task2](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task2-1.jpg) 
+
 ![Task2](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task2-2.jpg) 
+
 ![Task2](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task2-3%20web%20scan.jpg) 
+
 ![Task2](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/Task2-3%20cli%20scan.jpg) 
-![Task2](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/vulnerabilities.csv)
+
+![отчет сканирования](https://github.com/Myash-New/05-virt-04-docker-in-practice/blob/main/vulnerabilities.csv)
 
 Ответ задача 3
 
